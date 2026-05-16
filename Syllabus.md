@@ -1,4 +1,5 @@
 # Introduction to Data Science - Syllabus
+(AIML)
 
 ---
 
